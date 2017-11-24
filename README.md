@@ -6,5 +6,3 @@ Implements a Rot13 cipher that both encodes the plaintext and decodes the encode
 See the map for details on how the various components are set up.
 
 Load the map, and type in `-rot13 <text>` as an example to convert the text to its Rot13-encoded equivalent.
-=======
-Rot13 encoding implemented in Warcraft 3's scripting language
